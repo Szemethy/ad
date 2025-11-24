@@ -1,0 +1,149 @@
+[
+  { "zipcode": "1011", "city": "Budapest I. kerület" },
+  { "zipcode": "1012", "city": "Budapest I. kerület" },
+  { "zipcode": "1021", "city": "Budapest II. kerület" },
+  { "zipcode": "1023", "city": "Budapest II. kerület" },
+  { "zipcode": "1031", "city": "Budapest III. kerület" },
+  { "zipcode": "1033", "city": "Budapest III. kerület" },
+  { "zipcode": "1041", "city": "Budapest IV. kerület" },
+  { "zipcode": "1045", "city": "Budapest IV. kerület" },
+  { "zipcode": "1051", "city": "Budapest V. kerület" },
+  { "zipcode": "1054", "city": "Budapest V. kerület" },
+  { "zipcode": "1061", "city": "Budapest VI. kerület" },
+  { "zipcode": "1063", "city": "Budapest VI. kerület" },
+  { "zipcode": "1071", "city": "Budapest VII. kerület" },
+  { "zipcode": "1074", "city": "Budapest VII. kerület" },
+  { "zipcode": "1081", "city": "Budapest VIII. kerület" },
+  { "zipcode": "1084", "city": "Budapest VIII. kerület" },
+  { "zipcode": "1091", "city": "Budapest IX. kerület" },
+  { "zipcode": "1094", "city": "Budapest IX. kerület" },
+  { "zipcode": "1101", "city": "Budapest X. kerület" },
+  { "zipcode": "1106", "city": "Budapest X. kerület" },
+  { "zipcode": "1111", "city": "Budapest XI. kerület" },
+  { "zipcode": "1117", "city": "Budapest XI. kerület" },
+  { "zipcode": "1121", "city": "Budapest XII. kerület" },
+  { "zipcode": "1126", "city": "Budapest XII. kerület" },
+  { "zipcode": "1131", "city": "Budapest XIII. kerület" },
+  { "zipcode": "1138", "city": "Budapest XIII. kerület" },
+  { "zipcode": "1141", "city": "Budapest XIV. kerület" },
+  { "zipcode": "1144", "city": "Budapest XIV. kerület" },
+  { "zipcode": "1151", "city": "Budapest XV. kerület" },
+  { "zipcode": "1158", "city": "Budapest XV. kerület" },
+  { "zipcode": "1161", "city": "Budapest XVI. kerület" },
+  { "zipcode": "1165", "city": "Budapest XVI. kerület" },
+  { "zipcode": "1171", "city": "Budapest XVII. kerület" },
+  { "zipcode": "1173", "city": "Budapest XVII. kerület" },
+  { "zipcode": "1181", "city": "Budapest XVIII. kerület" },
+  { "zipcode": "1185", "city": "Budapest XVIII. kerület" },
+  { "zipcode": "1191", "city": "Budapest XIX. kerület" },
+  { "zipcode": "1195", "city": "Budapest XIX. kerület" },
+  { "zipcode": "1201", "city": "Budapest XX. kerület" },
+  { "zipcode": "1204", "city": "Budapest XX. kerület" },
+  { "zipcode": "1211", "city": "Budapest XXI. kerület" },
+  { "zipcode": "1214", "city": "Budapest XXI. kerület" },
+  { "zipcode": "1221", "city": "Budapest XXII. kerület" },
+  { "zipcode": "1223", "city": "Budapest XXII. kerület" },
+  { "zipcode": "1237", "city": "Budapest XXIII. kerület" },
+  { "zipcode": "1238", "city": "Budapest XXIII. kerület" },
+
+  { "zipcode": "2000", "city": "Szentendre" },
+  { "zipcode": "2011", "city": "Budakalász" },
+  { "zipcode": "2013", "city": "Pomáz" },
+  { "zipcode": "2030", "city": "Érd" },
+  { "zipcode": "2040", "city": "Budaörs" },
+  { "zipcode": "2051", "city": "Biatorbágy" },
+
+  { "zipcode": "2100", "city": "Gödöllő" },
+  { "zipcode": "2112", "city": "Veresegyház" },
+  { "zipcode": "2119", "city": "Pécel" },
+
+  { "zipcode": "2200", "city": "Monor" },
+  { "zipcode": "2212", "city": "Csévharaszt" },
+
+  { "zipcode": "2300", "city": "Ráckeve" },
+  { "zipcode": "2310", "city": "Szigetszentmiklós" },
+  { "zipcode": "2330", "city": "Dunaharaszti" },
+
+  { "zipcode": "2400", "city": "Dunaújváros" },
+  { "zipcode": "2440", "city": "Százhalombatta" },
+
+  { "zipcode": "2500", "city": "Esztergom" },
+  { "zipcode": "2510", "city": "Dorog" },
+
+  { "zipcode": "2600", "city": "Vác" },
+  { "zipcode": "2610", "city": "Nőtincs" },
+
+  { "zipcode": "2800", "city": "Tatabánya" },
+  { "zipcode": "2890", "city": "Tata" },
+
+  { "zipcode": "3000", "city": "Hatvan" },
+  { "zipcode": "3100", "city": "Salgótarján" },
+
+  { "zipcode": "3200", "city": "Gyöngyös" },
+  { "zipcode": "3300", "city": "Eger" },
+
+  { "zipcode": "3400", "city": "Mezőkövesd" },
+  { "zipcode": "3525", "city": "Miskolc" },
+
+  { "zipcode": "3600", "city": "Ózd" },
+  { "zipcode": "3700", "city": "Kazincbarcika" },
+
+  { "zipcode": "4000", "city": "Debrecen" },
+  { "zipcode": "4032", "city": "Debrecen" },
+
+  { "zipcode": "4200", "city": "Hajdúszoboszló" },
+  { "zipcode": "4300", "city": "Nyírbátor" },
+
+  { "zipcode": "4400", "city": "Nyíregyháza" },
+  { "zipcode": "4431", "city": "Nyíregyháza-Sóstóhegy" },
+
+  { "zipcode": "4501", "city": "Kemecse" },
+  { "zipcode": "4600", "city": "Kisvárda" },
+
+  { "zipcode": "4700", "city": "Mátészalka" },
+
+  { "zipcode": "5000", "city": "Szolnok" },
+  { "zipcode": "5100", "city": "Jászberény" },
+
+  { "zipcode": "5300", "city": "Karcag" },
+  { "zipcode": "5400", "city": "Mezőtúr" },
+
+  { "zipcode": "5600", "city": "Békéscsaba" },
+  { "zipcode": "5700", "city": "Gyula" },
+
+  { "zipcode": "6000", "city": "Kecskemét" },
+  { "zipcode": "6100", "city": "Kiskunfélegyháza" },
+
+  { "zipcode": "6300", "city": "Kalocsa" },
+  { "zipcode": "6400", "city": "Kiskunhalas" },
+
+  { "zipcode": "6600", "city": "Szentes" },
+  { "zipcode": "6720", "city": "Szeged" },
+
+  { "zipcode": "6800", "city": "Hódmezővásárhely" },
+  { "zipcode": "6900", "city": "Makó" },
+
+  { "zipcode": "7000", "city": "Sárbogárd" },
+  { "zipcode": "7100", "city": "Szekszárd" },
+
+  { "zipcode": "7200", "city": "Dombóvár" },
+  { "zipcode": "7300", "city": "Komló" },
+
+  { "zipcode": "7400", "city": "Kaposvár" },
+  { "zipcode": "7500", "city": "Nagyatád" },
+
+  { "zipcode": "8000", "city": "Székesfehérvár" },
+  { "zipcode": "8100", "city": "Várpalota" },
+
+  { "zipcode": "8200", "city": "Veszprém" },
+  { "zipcode": "8300", "city": "Tapolca" },
+
+  { "zipcode": "8400", "city": "Ajka" },
+  { "zipcode": "8500", "city": "Pápa" },
+
+  { "zipcode": "8600", "city": "Siófok" },
+  { "zipcode": "8800", "city": "Nagykanizsa" },
+
+  { "zipcode": "8900", "city": "Zalaegerszeg" },
+  { "zipcode": "9000", "city": "Győr" }
+]
